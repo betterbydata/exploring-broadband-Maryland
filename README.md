@@ -1,4 +1,6 @@
 # exploring-caf-maryland
+### Author
+Beryl Blanks, BSW
 
 ## Broadband Access in Maryland (2022–2024)
 An exploratory data analysis of broadband deployments funded through the Connect America Fund (CAF), focusing on Maryland ZIP code level demographics and deployment density.
