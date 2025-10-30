@@ -27,7 +27,8 @@ The Power BI dashboard highlights:
 
 
 <img width="1920" height="1080" alt="Final" src="https://github.com/user-attachments/assets/8204c1a1-19d2-4a24-bd24-d334a939786e" />
-<img width="390" height="255" alt="2 2" src="https://github.com/user-attachments/assets/49b372db-b823-459b-88cd-7c1397647c88" />
+<img width="480" height="720" alt="MD Sample CAF page 2" src="https://github.com/user-attachments/assets/39fcfd1f-d35d-4c24-8d41-0851cff56b2f" />
+
 
 
 
