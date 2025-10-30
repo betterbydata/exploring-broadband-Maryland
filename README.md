@@ -9,9 +9,9 @@ An exploratory data analysis of broadband deployments funded through the Connect
 This project explores the relationship between broadband deployment rates and demographic indicators such as homeownership and population distribution across a sample of Maryland ZIP codes.
 
 ### Data Sources
-- **CAF_sample**: Connect America Fund disbursement data for Maryland; https://opendata.usac.org/High-Cost/CAF-Disbursements-and-Locations-Data/hghw-69cg/about_data 
-- **speedandlocation**: Broadband deployment locations in Maryland, depolyments in 2022, 2023, and 2024; https://data.usac.org/publicreports/caf-map/
-- **md_zcta**: Maryland ZIP Code Tabulation Area demographics (U.S. Census); https://data.imap.maryland.gov/datasets/maryland::maryland-census-data-zip-code-tabulation-areas-zctas/about
+- Connect America Fund disbursement data for Maryland; https://opendata.usac.org/High-Cost/CAF-Disbursements-and-Locations-Data/hghw-69cg/about_data 
+- Broadband deployment locations in Maryland, depolyments in 2022, 2023, and 2024; https://data.usac.org/publicreports/caf-map/
+- Maryland ZIP Code Tabulation Area demographics (U.S. Census); https://data.imap.maryland.gov/datasets/maryland::maryland-census-data-zip-code-tabulation-areas-zctas/about
 
 ### Tools
 - **Excel/Power Query**: Initial data cleaning
